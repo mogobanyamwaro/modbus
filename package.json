@@ -1,0 +1,9 @@
+{
+  "name": "modbus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "modbus-stream": "^0.46.0"
+  }
+}
